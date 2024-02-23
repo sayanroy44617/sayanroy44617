@@ -1,10 +1,10 @@
-<div align="right">
+<div align="center">
   <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnY4MGZkeGtxOXNmbmRpZ2lweXV0dmVnNWw5eWZ5MnRvMmZyMHl0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"  />
 </div>
 
 ###
 
-<p align="left">Hi everyone 👋 , I'm Sayan Roy , a 2023 IT undergrad an aspring sde and content-writer</p>
+<p align="center">Hi everyone 👋 , I'm Sayan Roy , a 2023 IT undergrad an aspring sde and content-writer</p>
 
 ###
 
@@ -45,9 +45,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sayanroy44617&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanroy44617&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sayanroy44617/sayanroy44617/output/snake.svg" alt="Snake animation" />
 
 ###
