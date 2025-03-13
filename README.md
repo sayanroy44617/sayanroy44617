@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi everyone 👋 , I'm Sayan Roy , a 2023 IT undergrad an aspring sde and content-writer</p>
+<p align="center">Hi everyone 👋 , I'm Sayan Roy , a junior backend dev working @Thoughtworks </p>
 
 ###
 
