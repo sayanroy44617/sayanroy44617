@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi everyone 👋 , I'm Sayan Roy , a junior backend dev working @Thoughtworks </p>
+<p align="center">Hi everyone 👋 , I'm Sayan Roy , a backend dev working @Thoughtworks </p>
 
 ###
 
